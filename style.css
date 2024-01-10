@@ -1,14 +1,15 @@
-article {
-    
+#texto1 {
+    color:red
 }
 
-
-
-
-.paragrafo-article {
-    color: rgb(230, 104, 104);
+.titulo1 {
+    background-color: rgb(255, 163, 163);
 }
 
-#titulo-2 {
-    color: rgb(131, 47, 47);
+.titulo2 {
+    color:
+        orange
+}
+.titulo{
+    color:red
 }
