@@ -1,15 +1,22 @@
 #texto1 {
-    color:red
+    color:red;
 }
 
 .titulo1 {
     background-color: rgb(255, 163, 163);
+    border-style: dotted;
 }
 
 .titulo2 {
     color:
-        orange
+        orange;
 }
 .titulo{
-    color:red
+    color:red;
+}
+img{
+    max-width: 100px;
+}
+.imagem2{
+    max-width: 200px;
 }
